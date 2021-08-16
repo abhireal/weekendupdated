@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent report initialized]]>
+    </line>
+    <line>
+      <![CDATA[XL DP]]>
+    </line>
+    <line>
+      <![CDATA[XL path:./data/input.xlsx XL Sheet:testValidLogin]]>
+    </line>
+    <line>
+      <![CDATA[Extent Test Created]]>
+    </line>
+    <line>
+      <![CDATA[XL DP]]>
+    </line>
+    <line>
+      <![CDATA[XL path:./data/input.xlsx XL Sheet:testValidLogin]]>
+    </line>
+    <line>
+      <![CDATA[Extent Test Created]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid?:YES]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid?:YES]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid]]>
+    </line>
+    <line>
+      <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+    </line>
+    <line>
+      <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+    </line>
+    <line>
+      <![CDATA[Browser:chrome]]>
+    </line>
+    <line>
+      <![CDATA[Browser:firefox]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched in grid:chrome]]>
+    </line>
+    <line>
+      <![CDATA[ETO:60]]>
+    </line>
+    <line>
+      <![CDATA[ITO:60]]>
+    </line>
+    <line>
+      <![CDATA[PLT:60]]>
+    </line>
+    <line>
+      <![CDATA[STO:60]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched in grid:firefox]]>
+    </line>
+    <line>
+      <![CDATA[ETO:60]]>
+    </line>
+    <line>
+      <![CDATA[ITO:60]]>
+    </line>
+    <line>
+      <![CDATA[PLT:60]]>
+    </line>
+    <line>
+      <![CDATA[STO:60]]>
+    </line>
+    <line>
+      <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+    </line>
+    <line>
+      <![CDATA[Cookies Deleted]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Precondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Test executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Postcondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Extent Test Created]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid?:YES]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid]]>
+    </line>
+    <line>
+      <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+    </line>
+    <line>
+      <![CDATA[Browser:chrome]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched in grid:chrome]]>
+    </line>
+    <line>
+      <![CDATA[ETO:60]]>
+    </line>
+    <line>
+      <![CDATA[ITO:60]]>
+    </line>
+    <line>
+      <![CDATA[PLT:60]]>
+    </line>
+    <line>
+      <![CDATA[STO:60]]>
+    </line>
+    <line>
+      <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+    </line>
+    <line>
+      <![CDATA[Cookies Deleted]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Precondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Test executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Postcondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Extent Test Created]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid?:YES]]>
+    </line>
+    <line>
+      <![CDATA[Using Grid]]>
+    </line>
+    <line>
+      <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+    </line>
+    <line>
+      <![CDATA[Browser:firefox]]>
+    </line>
+    <line>
+      <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+    </line>
+    <line>
+      <![CDATA[Cookies Deleted]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Precondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Test executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Postcondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched in grid:firefox]]>
+    </line>
+    <line>
+      <![CDATA[ETO:60]]>
+    </line>
+    <line>
+      <![CDATA[ITO:60]]>
+    </line>
+    <line>
+      <![CDATA[PLT:60]]>
+    </line>
+    <line>
+      <![CDATA[STO:60]]>
+    </line>
+    <line>
+      <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+    </line>
+    <line>
+      <![CDATA[Cookies Deleted]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Precondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Test executed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Postcondition completed]]>
+    </line>
+    <line>
+      <![CDATA[Extent report published]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-08-08T06:00:42Z" name="RegressionSuite" finished-at="2021-08-08T06:01:34Z" duration-ms="52328">
+    <groups>
+    </groups>
+    <test started-at="2021-08-08T06:00:42Z" name="ChromeTest" finished-at="2021-08-08T06:01:23Z" duration-ms="41517">
+      <class name="script.ValidLogin">
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, org.testng.ITestResult)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:00:45Z" name="preCondition" finished-at="2021-08-08T06:01:05Z" duration-ms="19942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.1.3:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Test Created]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid?:YES]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid]]>
+            </line>
+            <line>
+              <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+            </line>
+            <line>
+              <![CDATA[Browser:chrome]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched in grid:chrome]]>
+            </line>
+            <line>
+              <![CDATA[ETO:60]]>
+            </line>
+            <line>
+              <![CDATA[ITO:60]]>
+            </line>
+            <line>
+              <![CDATA[PLT:60]]>
+            </line>
+            <line>
+              <![CDATA[STO:60]]>
+            </line>
+            <line>
+              <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+            </line>
+            <line>
+              <![CDATA[Cookies Deleted]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Precondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:01:05Z" name="testValidLogin" data-provider="getDataFromXL" finished-at="2021-08-08T06:01:08Z" duration-ms="3457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:01:08Z" name="postCondition" finished-at="2021-08-08T06:01:08Z" duration-ms="80" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+            <line>
+              <![CDATA[Test executed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Postcondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, org.testng.ITestResult)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:01:08Z" name="preCondition" finished-at="2021-08-08T06:01:22Z" duration-ms="13668" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.1.3:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Test Created]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid?:YES]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid]]>
+            </line>
+            <line>
+              <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+            </line>
+            <line>
+              <![CDATA[Browser:chrome]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched in grid:chrome]]>
+            </line>
+            <line>
+              <![CDATA[ETO:60]]>
+            </line>
+            <line>
+              <![CDATA[ITO:60]]>
+            </line>
+            <line>
+              <![CDATA[PLT:60]]>
+            </line>
+            <line>
+              <![CDATA[STO:60]]>
+            </line>
+            <line>
+              <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+            </line>
+            <line>
+              <![CDATA[Cookies Deleted]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Precondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:01:22Z" name="testValidLogin" data-provider="getDataFromXL" finished-at="2021-08-08T06:01:23Z" duration-ms="1212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[trainee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[trainee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:script.ValidLogin@595b007d]" started-at="2021-08-08T06:01:23Z" name="postCondition" finished-at="2021-08-08T06:01:23Z" duration-ms="137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@595b007d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+            <line>
+              <![CDATA[Test executed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Postcondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- script.ValidLogin -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2021-08-08T06:00:42Z" name="FFTest" finished-at="2021-08-08T06:01:34Z" duration-ms="52328">
+      <class name="script.ValidLogin">
+        <test-method is-config="true" signature="initReport()[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:00:41Z" name="initReport" finished-at="2021-08-08T06:00:42Z" duration-ms="559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Extent report initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method is-config="true" signature="startGrid()[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:00:42Z" name="startGrid" finished-at="2021-08-08T06:00:42Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startGrid -->
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, org.testng.ITestResult)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:00:45Z" name="preCondition" finished-at="2021-08-08T06:01:11Z" duration-ms="26403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.1.3:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Test Created]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid?:YES]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid]]>
+            </line>
+            <line>
+              <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+            </line>
+            <line>
+              <![CDATA[Browser:firefox]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched in grid:firefox]]>
+            </line>
+            <line>
+              <![CDATA[ETO:60]]>
+            </line>
+            <line>
+              <![CDATA[ITO:60]]>
+            </line>
+            <line>
+              <![CDATA[PLT:60]]>
+            </line>
+            <line>
+              <![CDATA[STO:60]]>
+            </line>
+            <line>
+              <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+            </line>
+            <line>
+              <![CDATA[Cookies Deleted]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Precondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:11Z" name="testValidLogin" data-provider="getDataFromXL" finished-at="2021-08-08T06:01:12Z" duration-ms="988" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:12Z" name="postCondition" finished-at="2021-08-08T06:01:14Z" duration-ms="1934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+            <line>
+              <![CDATA[Test executed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Postcondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String, java.lang.String, org.testng.ITestResult)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:14Z" name="preCondition" finished-at="2021-08-08T06:01:32Z" duration-ms="18401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.1.3:4444/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Test Created]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid?:YES]]>
+            </line>
+            <line>
+              <![CDATA[Using Grid]]>
+            </line>
+            <line>
+              <![CDATA[hubURL:http://192.168.1.3:4444/wd/hub]]>
+            </line>
+            <line>
+              <![CDATA[Browser:firefox]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched in grid:firefox]]>
+            </line>
+            <line>
+              <![CDATA[ETO:60]]>
+            </line>
+            <line>
+              <![CDATA[ITO:60]]>
+            </line>
+            <line>
+              <![CDATA[PLT:60]]>
+            </line>
+            <line>
+              <![CDATA[STO:60]]>
+            </line>
+            <line>
+              <![CDATA[appUrl:https://demo.actitime.com/login.do]]>
+            </line>
+            <line>
+              <![CDATA[Cookies Deleted]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Precondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:32Z" name="testValidLogin" data-provider="getDataFromXL" finished-at="2021-08-08T06:01:33Z" duration-ms="644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[trainee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[trainee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:33Z" name="postCondition" finished-at="2021-08-08T06:01:34Z" duration-ms="952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=ValidLogin.testValidLogin(java.lang.String, java.lang.String)[pri:0, instance:script.ValidLogin@747ddf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+            <line>
+              <![CDATA[Test executed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Postcondition completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="publishReport()[pri:0, instance:script.ValidLogin@747ddf94]" started-at="2021-08-08T06:01:34Z" name="publishReport" finished-at="2021-08-08T06:01:35Z" duration-ms="700" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Extent report published]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- script.ValidLogin -->
+    </test> <!-- FFTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

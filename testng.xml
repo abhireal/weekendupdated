@@ -1,0 +1,16 @@
+<suite name="RegressionSuite" parallel="tests">
+  <test name="ChromeTest">
+  <parameter name="hubURL" value="http://192.168.1.3:4444/wd/hub"/>
+   <parameter name="browser" value="chrome"/>
+    <packages>
+      <package name="script"/>
+    </packages>
+  </test>
+ <test name="FFTest">
+  <parameter name="hubURL" value="http://192.168.1.3:4444/wd/hub"/>
+   <parameter name="browser" value="firefox"/>
+    <packages>
+      <package name="script"/>
+    </packages>
+  </test>
+</suite>
